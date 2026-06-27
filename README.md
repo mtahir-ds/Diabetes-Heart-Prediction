@@ -53,7 +53,7 @@ The models powering this dashboard were developed through extensive research and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MuhammadTahir-1-9-4/Diabetes-Heart-Prediction.git
+git clone https://github.com/mtahir-ds/Diabetes-Heart-Prediction.git
 cd Diabetes-Heart-Prediction
 ```
 
@@ -100,4 +100,4 @@ This application is intended for **educational and research purposes only**. It 
 ## 👤 Author
 
 **Muhammad Tahir**
-- GitHub: [@MuhammadTahir-1-9-4](https://github.com/MuhammadTahir-1-9-4)
+- GitHub: [@mtahir-ds](https://github.com/mtahir-ds)
